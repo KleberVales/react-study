@@ -1,7 +1,11 @@
 # React study
 
-## 1. JavaScript
-## 2. Métodos de array
-## 3. Assincronismo
-## 4. HTML e CSS
-## 5. Node.js e npm
+## 1. HTML e CSS
+
+## 2. JavaScript
+### 2.1 Métodos de array
+
+## 3. Node.js e npm
+
+## 4. Assincronismo
+
