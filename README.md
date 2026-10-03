@@ -69,11 +69,12 @@
 ### 10.3 End-to-end testing with **Playwright** or **Cypress**
 
 ## 11. Performance and best practices
-- How rendering and re-rendering work
-- `React.memo`, lazy loading, `Suspense`
-- Code splitting
-- Folder structure and project organization
-- Accessibility (a11y)
+
+### 11.1 How rendering and re-rendering work
+### 11.2 `React.memo`, lazy loading, `Suspense`
+### 11.3 Code splitting
+### 11.4 Folder structure and project organization
+### 11.5 Accessibility (a11y)
 
 ## 12. Ecosystem and advanced topics
 - **Next.js**: SSR, SSG, routes, Server Components (essential for the market)
