@@ -51,14 +51,16 @@
 ### 7.3 Redux Toolkit (widely used in the market)
 
 ## 8. Styling
-- CSS Modules
-- **Tailwind CSS**
-- Styled Components
-- UI Libraries: **shadcn/ui**, Material UI, Chakra UI
+
+### 8.1 CSS Modules
+### 8.2 **Tailwind CSS**
+### 8.3 Styled Components
+### 8.4 UI Libraries: **shadcn/ui**, Material UI, Chakra UI
 
 ## 9. TypeScript with React
-- Typing of props, states, and events
-- Generic types in hooks and components
+
+### 9.1 Typing of props, states, and events
+### 9.2 Generic types in hooks and components
 
 ## 10. Testing
 - **Vitest** or **Jest**
