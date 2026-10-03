@@ -17,3 +17,14 @@
 ### 2.6 Conditional rendering and lists with keys
 ### 2.7 Events: onClick, onChange, onSubmit
 
+## 3. State and Hooks
+
+### 3.1 useState: local state
+### 3.2 useEffect: side effects, dependency array, cleanup
+### 3.3 useRef: DOM references and mutable values
+### 3.4 useContext: share data without prop drilling
+### 3.5 useReducer: more complex states
+### 3.6 useMemo and useCallback: optimization
+### 3.7 Custom hooks: extract and reuse logic
+### 3.8 Hooks Rules
+
