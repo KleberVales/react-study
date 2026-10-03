@@ -1,11 +1,9 @@
 # React study
 
-## 1. HTML e CSS
+## 1. Fundamentals
 
-## 2. JavaScript
-### 2.1 Métodos de array
-
-## 3. Node.js e npm
-
-## 4. Assincronismo
+### 1.1 HTML e CSS
+### 1.2 JavaScript
+### 1.3 Node.js e npm
+### 1.4 Assincronismo
 
