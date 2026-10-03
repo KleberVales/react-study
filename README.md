@@ -77,9 +77,10 @@
 ### 11.5 Accessibility (a11y)
 
 ## 12. Ecosystem and advanced topics
-- **Next.js**: SSR, SSG, routes, Server Components (essential for the market)
-- Patterns: composition, render props, compound components
-- Error Boundaries
-- Authentication (JWT, OAuth)
-- Deployment: Vercel, Netlify
+
+### 12.1 Next.js: SSR, SSG, routes, Server Components (essential for the market)
+### 12.2 Patterns: composition, render props, compound components
+### 12.3 Error Boundaries
+### 12.4 Authentication (JWT, OAuth)
+### 12.5 Deployment: Vercel, Netlify
 
