@@ -28,3 +28,52 @@
 ### 3.7 Custom hooks: extract and reuse logic
 ### 3.8 Hooks Rules
 
+## 4. Forms
+
+### 4.1 Controlled components vs. Uncontrolled
+### 4.2 Validation
+### 4.3 Libraries: React Hook Form, Zod
+
+## 5. Routing
+
+### 5.1 React Router: routes, nested routes, parameters, navigation, protected routes
+
+## 6. API and Data Consumption
+- `fetch` and **Axios**
+- Loading and Error States
+- **TanStack Query (React Query)**: caching, revalidation, mutations
+
+## 7. Global State Management
+- Context API
+- **Zustand** (simple and popular)
+- **Redux Toolkit** (widely used in the market)
+
+## 8. Styling
+- CSS Modules
+- **Tailwind CSS**
+- Styled Components
+- UI Libraries: **shadcn/ui**, Material UI, Chakra UI
+
+## 9. TypeScript with React
+- Typing of props, states, and events
+- Generic types in hooks and components
+
+## 10. Testing
+- **Vitest** or **Jest**
+- **React Testing Library**
+- End-to-end testing with **Playwright** or **Cypress**
+
+## 11. Performance and best practices
+- How rendering and re-rendering work
+- `React.memo`, lazy loading, `Suspense`
+- Code splitting
+- Folder structure and project organization
+- Accessibility (a11y)
+
+## 12. Ecosystem and advanced topics
+- **Next.js**: SSR, SSG, routes, Server Components (essential for the market)
+- Patterns: composition, render props, compound components
+- Error Boundaries
+- Authentication (JWT, OAuth)
+- Deployment: Vercel, Netlify
+
