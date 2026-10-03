@@ -63,9 +63,10 @@
 ### 9.2 Generic types in hooks and components
 
 ## 10. Testing
-- **Vitest** or **Jest**
-- **React Testing Library**
-- End-to-end testing with **Playwright** or **Cypress**
+
+### 10.1 **Vitest** or **Jest**
+### 10.2 **React Testing Library**
+### 10.3 End-to-end testing with **Playwright** or **Cypress**
 
 ## 11. Performance and best practices
 - How rendering and re-rendering work
