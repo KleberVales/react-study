@@ -39,14 +39,16 @@
 ### 5.1 React Router: routes, nested routes, parameters, navigation, protected routes
 
 ## 6. API and Data Consumption
-- `fetch` and **Axios**
-- Loading and Error States
-- **TanStack Query (React Query)**: caching, revalidation, mutations
+
+### 6.1 fetch and Axios
+### 6.2 Loading and Error States
+### 6.3 TanStack Query (React Query): caching, revalidation, mutations
 
 ## 7. Global State Management
-- Context API
-- **Zustand** (simple and popular)
-- **Redux Toolkit** (widely used in the market)
+
+### 7.1 Context API
+### 7.2 Zustand (simple and popular)
+### 7.3 Redux Toolkit (widely used in the market)
 
 ## 8. Styling
 - CSS Modules
